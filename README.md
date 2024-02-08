@@ -2,7 +2,7 @@
 Modules related to BACnet Segmentation
 Points to cover. Order of importance.
 
-* BACnet Network Segmentation - not a heading but the first point.... no heading.\
+* BACnet Network Segmentation 
 * BACnet Application Level Firewall
 * BACnet System Monitoring
 * BACnet Certificate Management
