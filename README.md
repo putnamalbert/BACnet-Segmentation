@@ -10,10 +10,10 @@ Points to cover. Order of importance.
 * VPN Access to private network
 * Adheres to IT Best Practices
 
-[//] # KC: The device and system capabilities for description: 
-
+<!---
+KC: The device and system capabilities for description: 
 [//] # 1. BACnet network segmentation : Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
-
+-->
 
 2. BACnet Firewall :
 Application layer routing is an intrinsic firewwall in and of itself.
