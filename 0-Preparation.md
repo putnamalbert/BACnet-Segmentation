@@ -39,6 +39,9 @@ Siemens tools like ABT.
 
 IBB: https://www.interoperablebuildingbox.com/
 
-BAcnet: https://www.ashrae.org/technical-resources/bookstore/bacnet
+BACnet: https://www.ashrae.org/technical-resources/bookstore/bacnet
 
 https://www.ashrae.org/technical-resources/standards-and-guidelines
+
+Virtual Machines "out there": 
+https://www.linode.com/    https://www.hetzner.com/     https://www.vultr.com/   https://www.digitalocean.com/
