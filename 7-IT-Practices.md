@@ -1,4 +1,4 @@
-# IT Practice - CoP
+# IT Community of Practice - CoP
 * DHCP - Auto address assignment
 * DNS - Names
 * NTP - Time
