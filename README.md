@@ -12,8 +12,8 @@ Points to cover. Order of importance.
 
 <!---
 KC: The device and system capabilities for description: 
-[//] # 1. BACnet network segmentation : Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
--->
+1. BACnet network segmentation : Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
+
 
 2. BACnet Firewall :
 Application layer routing is an intrinsic firewwall in and of itself.
@@ -60,3 +60,4 @@ Wireshark capture of ip and sc. What to do with sc keys. Escrow and proxy. Reall
 6. Openvpn. Community client. Ovpn file loads in client. Server hands out .ovpn. Show in UI of products.
 
 7.  Sc ip ports urls. Ipv6. Certificates and keys. Syslog. NTP. DNS. DHCP. BBMD. Radius. VPN again.
+-->
