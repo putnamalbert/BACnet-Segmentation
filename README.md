@@ -2,7 +2,10 @@
 Modules related to BACnet Segmentation
 Points to cover. Order of importance.
 
-* BACnet Network Segmentation 
+* BACnet Network Segmentation
+  
+  Physically separate Ethernet.
+Connecting BACnet/IP, BACnet/SC, MSTP
 * BACnet Application Level Firewall
 * BACnet System Monitoring
 * BACnet Certificate Management
@@ -13,8 +16,7 @@ Points to cover. Order of importance.
 KC: The device and system capabilities for description: 
 
 1. BACnet network segmentation : 
-Physically separate Ethernet
-Connecting BACnet/IP, BACnet/SC, MSTP
+
 
 2. BACnet Firewall :
 Application layer routing is an intrinsic firewwall in and of itself.
