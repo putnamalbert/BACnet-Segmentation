@@ -4,7 +4,8 @@ Layered and zones. Segmentation can be dpone logically on the same physical port
 
 Number of interfaces is generally two or more. Same or different: Protocol. IP address. Port. Url within the above. 
 
-For example because pure SC is all the way to URL. SC can coexist with BACnet/IP or Ethernet pure because it is segmented. 
+Because pure BACnet/SC is all the way to URL, SC can coexist with BACnet/IP or BACnet Ethernet (layer 2) because it is segmented. 
+
 Segmentation can also allow different physical or logical extensions to be separated. Like PoE or multi drop or others.
 
 ## BACnet Network Segmentation Devices (BACnet routers) BNSD:
