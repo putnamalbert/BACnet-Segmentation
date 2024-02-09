@@ -16,12 +16,18 @@ Text editor like Notepad.
 
 ## Optional
 NMAP
+
 Zoom, Teams
+
 VM environment and tools like those for VirtualBox, WSL2 and HyperV.
 
 ## Advanced
 SSH client like Putty or equivalent.
+
 Network interface configuration tools like Netsetman
+
 USB second Ethernet adapter for laptop.
+
 Portable Ethernet switch.
+
 Siemens tools like ABT.
