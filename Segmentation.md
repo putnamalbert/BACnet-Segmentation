@@ -1,7 +1,16 @@
 # Segmentation
 
+Layered and zones. Segmentation can be dpone logically on the same physical port but generally means separating interfaces. 
 
-BACnet Network Segmentation Devices (BACnet routers) solve the following integration problems:
+Number of interfaces is generally two or more. Same or different: Protocol. IP address. Port. Url within the above. 
+
+For example because pure SC is all the way to URL. SC can coexist with BACnet/IP or Ethernet pure because it is segmented. 
+Segmentation can also allow different physical or logical extensions to be separated. Like PoE or multi drop or others.
+
+## BACnet Network Segmentation Devices (BACnet routers) BNSD:
+B3075, SbC3200, SbC3100
+
+### BNSD solve the following integration problems:
 
 When IT is unwilling to provide all the IP addresses required for a project.
 
