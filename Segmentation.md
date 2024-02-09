@@ -1,3 +1,6 @@
+# Segmentation
+
+
 BACnet Network Segmentation Devices (BACnet routers) solve the following integration problems:
 
 When IT is unwilling to provide all the IP addresses required for a project.
