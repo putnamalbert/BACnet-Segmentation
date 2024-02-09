@@ -38,3 +38,7 @@ OpenVPN Cloud Servers: CloudConnexa https://openvpn.net/cloud-vpn/
 Siemens tools like ABT.
 
 IBB: https://www.interoperablebuildingbox.com/
+
+BAcnet: https://www.ashrae.org/technical-resources/bookstore/bacnet
+
+https://www.ashrae.org/technical-resources/standards-and-guidelines
