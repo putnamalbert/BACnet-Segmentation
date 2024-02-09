@@ -33,4 +33,8 @@ USB second Ethernet adapter for laptop.  https://www.tp-link.com/us/home-network
 
 Portable Ethernet switch. https://www.tp-link.com/us/business-networking/easy-smart-switch/tl-sg105e/
 
+OpenVPN Cloud Servers: CloudConnexa https://openvpn.net/cloud-vpn/
+
 Siemens tools like ABT.
+
+IBB: https://www.interoperablebuildingbox.com/
