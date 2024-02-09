@@ -1,9 +1,5 @@
 # Preparation 
-To participate in our modules: 
-
-Best to preload if you intend to use. 
-
-Laptop with Ethernet with following software:
+To participate in our modules: Best to preload if you intend to use. Laptop with Ethernet with following software:
 
 ## Basic
 Web browsers (preferably more than one browser).
