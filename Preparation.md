@@ -1,9 +1,11 @@
 # Preparation 
-To participate in our modules: (best to preload if you intend to use) 
+To participate in our modules: 
 
-## Basic
+Best to preload if you intend to use. 
+
 Laptop with Ethernet with following software:
 
+## Basic
 Web browsers (preferably more than one browser).
 
 Wireshark.
