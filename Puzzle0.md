@@ -1,5 +1,5 @@
 # Puzzle, Treasure Hunt, Capture the Flag
-Based on the modules. And extracting or basing on each:
+Based on the modules. And extracting or basing on each. Keep track of what is goung on in each modul,e so yyou can answer the questions tgat will be revealed. Then put the answers together to send a text message to our arbitrator to capture the flag.
 * BACnet Network Segmentation
 * BACnet Application Level Firewall
 * BACnet System Monitoring
