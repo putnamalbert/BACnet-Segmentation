@@ -5,6 +5,9 @@ Each module will be about ten minutes in duration. They will be cycled through d
 
 Note this is a public website. Please do not place proprietary information.
 
+All trademarks are property of the holders. Endorsement by ASHRAE or any other standards organization is not implied.
+Endorsement by Siemens or Cimetrics is not implied.
+
 
 
 * BACnet Network Segmentation   :      Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
