@@ -1,7 +1,7 @@
 # BACnet-Segmentation
 Modules related to BACnet Segmentation
 Points to cover. Order of importance.
-Each module will be about ten minutes in duration. They will be cycled through during each session with a half Q&A session.
+Each module will be about ten minutes in duration. They will be cycled through during each session with a half hour Q&A session.
 
 * BACnet Network Segmentation   :      Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
 * BACnet Application Level Firewall   :   Rules by packet type. Monitoring. Read only.
