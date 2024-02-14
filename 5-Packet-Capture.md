@@ -9,4 +9,5 @@ Wireshark can be used to capture packets on a computer where Wireshark is instal
 Some networks have a substantial amount of uninteresting network traffic, which can substantially increase the size of packet capture files.  The packet capture agent built into Cimetrics BNSDs block almost all non-BACnet/IP traffic.  When an application like Wireshark is used for packet capture, it may be possible to restrict the traffic that goes into the packet capture file.  An example of a Wireshark capture filter that would be useful for BACnet/IP networks would be "udp port 47808", which restricts the captured traffic to UDP datagrams on port 47808 (the default port for BACnet/IP).
 
 ## Network Traffic Analysis and Problem Diagnosis
+AP: Edit.
 
