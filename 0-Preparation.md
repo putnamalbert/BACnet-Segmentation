@@ -13,6 +13,10 @@ OpenVPN Community Edition Client. https://openvpn.net/community-downloads/
 Text editor like Notepad.
 
 ## Optional
+Markdown  .md files   
+https://www.markdownguide.org/basic-syntax/
+https://en.wikipedia.org/wiki/Markdown
+
 NMAP  https://nmap.org/
 
 Zoom  https://zoom.us/    , Teams
