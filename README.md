@@ -1,5 +1,7 @@
 # BACnet-Segmentation
-Modules related to BACnet Segmentation. Points to cover. Order of importance.
+This GitHub site provides an educational guide related to BACnet Segmentation for the Feb/24 IT/OT Summit.
+
+Modules related to aspects of BACnet Segmentation. Points to cover. Order of importance.
 
 Each module will be about ten minutes in duration. They will be cycled through during each session with a half hour Q&A session.
 
