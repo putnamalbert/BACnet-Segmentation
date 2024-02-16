@@ -1,5 +1,5 @@
 # BACnet-Segmentation
-This GitHub site provides an educational guide related to BACnet Segmentation for the Feb/24 IT/OT Summit.
+This GitHub site provides an educational guide related to BACnet Segmentation for the February 2024 IT/OT Summit.
 
 Modules related to aspects of BACnet Segmentation. Points to cover. Order of importance.
 
