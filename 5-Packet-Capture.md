@@ -18,15 +18,18 @@ Display filtering enables you to display a subset of the captured network packet
 
 The general format of simple Wireshark display filter that identifies packets to be displayed is as follows:
 `layer.field==value`
-Note that "==" means equal.  So packets the that will be displayed are those for which the specified field is equal to the specified value.
+
+Note that "==" in a display filter means that the left side and the right side must be equal.  So packets the that will be displayed are those for which the specified field is equal to the specified value.
 
 A first example: If you want to view only the BACnet messages that are from BACnet network 888 and that went through a BACnet router, this simple display filter will accomplish that:
 `bacnet.snet==888`
 
 Another example: If you want to view only the BACnet Who-Is messages, this display filter will work:
 `bacapp.unconfirmed_service == 8`
-Who-Is is an unconfirmed service at BACnet's application layer, and the value 8 specifies the Who-Is service.
+
+Who-Is is an unconfirmed service at BACnet's application layer, and the value 8 specifies the Who-Is service.  Changing the value to 0 specifies the I-Am service: `bacapp.unconfirmed_service == 0`
 
 We can combine simple filters using the "and" and "or" logical operators to create more complex filters.  For example:
 `bacnet.snet==888 and bacapp.unconfirmed_service == 8`
+
 The "and" operator specifies that only packets that meet multiple criteria will be displayed.
