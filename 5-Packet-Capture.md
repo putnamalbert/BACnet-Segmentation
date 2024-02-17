@@ -18,10 +18,10 @@ The general format of simple Wireshark display filter is as follows:
   packetlayer.parameter==value
 
 A first example: If you want to view only the BACnet messages that are from BACnet network 888 and that went through a BACnet router, this is a simple display filter:
-  bacnet.snet==888
+`bacnet.snet==888`
 
 Another example: If you want to view only the BACnet Who-Is messages, this display filter will work:
-  bacapp.unconfirmed_service == 8
+`bacapp.unconfirmed_service == 8`
 
 We can combine simple filters using the "and" and "or" logical operators to create more complex filters.  For example:
-  bacnet.snet==888 and bacapp.unconfirmed_service == 8
+`bacnet.snet==888 and bacapp.unconfirmed_service == 8`
