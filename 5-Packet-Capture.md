@@ -11,17 +11,22 @@ Some networks have a substantial amount of uninteresting network traffic, which 
 Sometimes it will be helpful to send BACnet messages while doing packet capture in order to observe how BACnet devices react to specific network activity.  For that purpose, a software tool like Cimetrics's BACnet Explorer is useful.
 
 ## Network Traffic Analysis and Problem Diagnosis using Wireshark
-Wireshark is the most commonly used tool for BACnet network traffic analysis, because it supports a variety of packet capture file formats and because it has a good BACnet message decoder.  To use Wireshark effectively, you should become familiar with Wireshark's display filter syntax as well as BACnet's network packet structure.  Display filtering enables you to display a subset of the captured network packets based on the contents of the packet.
+Wireshark is the most commonly used tool for BACnet network traffic analysis, because it supports a variety of packet capture file formats and because it has a good BACnet message decoder.  To use Wireshark effectively, you should become familiar with Wireshark's display filter syntax, text-based packet search, as well as BACnet's network packet structure.  
 
 ### Wireshark Display Filters
-The general format of simple Wireshark display filter is as follows:
-  packetlayer.parameter==value
+Display filtering enables you to display a subset of the captured network packets based on the contents of the packet.  It is particularly useful because you can focus on specific fields within a packet.
 
-A first example: If you want to view only the BACnet messages that are from BACnet network 888 and that went through a BACnet router, this is a simple display filter:
+The general format of simple Wireshark display filter that identifies packets to be displayed is as follows:
+`layer.field==value`
+Note that "==" means equal.  So packets the that will be displayed are those for which the specified field is equal to the specified value.
+
+A first example: If you want to view only the BACnet messages that are from BACnet network 888 and that went through a BACnet router, this simple display filter will accomplish that:
 `bacnet.snet==888`
 
 Another example: If you want to view only the BACnet Who-Is messages, this display filter will work:
 `bacapp.unconfirmed_service == 8`
+Who-Is is an unconfirmed service at BACnet's application layer, and the value 8 specifies the Who-Is service.
 
 We can combine simple filters using the "and" and "or" logical operators to create more complex filters.  For example:
 `bacnet.snet==888 and bacapp.unconfirmed_service == 8`
+The "and" operator specifies that only packets that meet multiple criteria will be displayed.
