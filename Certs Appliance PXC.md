@@ -51,7 +51,7 @@ Create Issuer Certificate for a Network NNN using the Appliance as a Certificate
 9. Select located "Issuer Certificate ..." branch and make sure the row right below the "gear menu" reads "Issuer Certificate Source:Appliance"
 10. If not, return to step #8 and pretend there is no "Issuer Certificate ..." branch
 11. You are all set
-
+----------------------------------------------------------
 Create and download Operational Certificate for a Device YYYY in network NNN, that could not create a CSR (i.e. 3100, 3200)
 
 1. Select "Certificate Management" in the "hamburger menu"
@@ -92,7 +92,7 @@ Create and download Operational Certificate for a Device YYYY in network NNN, th
     - devYYYY_netNNN_pkey_yyyy-mm-dd_hh_ss_mm.key - corresponding private key
     - net1111_issuingcert_yyyy-mm-dd_hh_ss_mm.crt - issuing certificate
     - devYYYY_netNNN_cert_yyyy-mm-dd_hh_ss_mm.pfx - all three files above in one PFX container
-
+--------------------------------------------------------------------------------------
 Create and download Operational Certificate for a Device YYYY in network NNN, that could create a CSR (i.e. the Appliance Device, Siemens Device)
 
 1. Go to device configuration and download its CSR
@@ -138,7 +138,7 @@ Create and download Operational Certificate for a Device YYYY in network NNN, th
     - net1111_issuingcert_yyyy-mm-dd_hh_ss_mm.crt - issuing certificate
     - devYYYY_netNNN_cert_yyyy-mm-dd_hh_ss_mm.pfx - both files above in one PFX container
 24. Go to device configuration and upload files that device will expect and accept
-
+----------------------------------------------------------------------------
 Installing an Operational Certificate for the Appliance Device
 
 1. Select "Settings" in the "hamburger menu"
@@ -157,7 +157,7 @@ Installing an Operational Certificate for the Appliance Device
     - Open the "gear menu" and select any of "Upload New Issung Certificate"
     - Select issuing certificate file here for uploading
 13. Locate the "Apply Change and Reboot" button somewhere down this page and click on it
-
+-------------------------------------------------------------------------------------
 Create Issuer Certificate for Network NNN using external Certificate Authority
 
 1. Select "Certificate Management" in the "hamburger menu"
@@ -180,7 +180,7 @@ Create Issuer Certificate for Network NNN using external Certificate Authority
 9. Select located "Issuer Certificate ..." branch and make sure the row right below the "gear menu" reads "Issuer Certificate Source:External"
 10. If not, return to step #8 and pretend there is no "Issuer Certificate ..." branch
 11. You are all set
-
+-----------------------------------------------------------------------------------
 Create Operational Certificate for a Device YYYY in network NNN that could not create a CSR (i.e. 3100, 3200) using external Certificate Authority (i.e. Siemens tool)
 
 1. Select "Certificate Management" in the "hamburger menu"
@@ -239,3 +239,4 @@ Create Operational Certificate for a Device YYYY in network NNN that could not c
     - net1111_issuingcert_yyyy-mm-dd_hh_ss_mm.crt - issuing certificate
     - devYYYY_netNNN_cert_yyyy-mm-dd_hh_ss_mm.pfx - all three files above in one PFX container
 28. Go to device configuration and upload files that device will expect and accept
+----------------------------------------------------------------------------------------
