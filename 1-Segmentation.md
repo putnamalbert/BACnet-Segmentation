@@ -1,6 +1,6 @@
 # Segmentation
 
-Layered and zones. Segmentation can be dpone logically on the same physical port but generally means separating interfaces. 
+Layered and zones. Segmentation can be done logically on the same physical port but generally means separating interfaces. 
 
 Number of interfaces is generally two or more. Same or different: Protocol. IP address. Port. Url within the above. 
 
