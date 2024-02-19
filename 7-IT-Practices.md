@@ -6,6 +6,7 @@
 * VPN - OpenVPN
 * BBMD - BACnet Broadcast Management
 * CA - Certificate authority and management
+* Configuration webserver certification (ala Lets Encrypt for public websites)
 ### Later
 * 802.1x Radius
 * IPv6
