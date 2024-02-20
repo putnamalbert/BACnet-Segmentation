@@ -24,4 +24,8 @@ IT may not allow Ethernet ring networks (daisy chained and ring devices) to conn
 IT departments do not allow UL864 switches to connect directly to the IT networks.
 
 Integrators are starting to design and deploy Secured BACnet/SC networks. At these sites, they need a solution that can easily segment and filter the unsecure BACnet/IP and BACnet/SC networks from the secure BACnet/SC network.
+
+### SC Certificate Domains
+
+Situations will arise of certificate scenario mismatch. Segmentation will eventually become a mater of matching security domains.
  
