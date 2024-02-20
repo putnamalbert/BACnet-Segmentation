@@ -27,5 +27,5 @@ Integrators are starting to design and deploy Secured BACnet/SC networks. At the
 
 ### SC Certificate Domains
 
-Situations will arise of certificate scenario mismatch. Segmentation will eventually become a mater of matching security domains.
+Situations will arise of certificate scenario mismatch. Segmentation will eventually become a mater of matching security domains. Cimetrics will provide a BACnet/SC to BACnet/SC BNSD to bridge this gap.
  
