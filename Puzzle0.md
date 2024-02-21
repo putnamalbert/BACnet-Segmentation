@@ -31,7 +31,10 @@ Offer only available to:\
 Attendees of this event Feb 21-22, 2024.\
 Resident/mailing in USA, Canada and territories. \
 Awards further abroad will be worked out directly. \
-NOT employees of Cimetrics or any others involved in the formulation of the puzzle.
+NOT employees of Cimetrics.\ 
+NOT third party vendors independent of host company.\
+NOT bots nor AI constructs.\
+NOT others involved in the formulation of the puzzle.\
 
 
   
