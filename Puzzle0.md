@@ -11,15 +11,24 @@ Based on the modules. And extracting or basing on each. Keep track of what is go
 * BACnet System Monitoring - What is the model number of the Cimetrics core management device? What is the out of (BACnet) band way of propagating messages and alerts in an IT/cloud friendly way? 
 * BACnet Certificate Management - What is perhaps the most key role in a BACnet SC Certificate issuing workflow?
 
-Here is an example submission to the arbiter:
+Here is an example submission (wrong but valid format) to the arbiter:
+
 0 Edge Enterprise
+
 1 Routers
+
 2 TCPIP
+
 3 B3075, SbC3000, SbC4100 - TEC, PCX
+
 4 exe
+
 5 zip
+
 6 tset
+
 7 SbC2000, IRC
+
 8 webserver
 
 Send as an email to cpeterson@cimetrics.com.
@@ -49,4 +58,4 @@ Where do IT shops want you to get the time? What service/server?
 
 -->
   
-TEST CONTENT
+
