@@ -23,9 +23,9 @@ Here is an example submission (wrong but valid format) to the arbiter:
 7 SbC2000, IRC\
 8 webserver
 
-Send as an email to cpeterson@cimetrics.com.
+Send as an email to cpeterson@cimetrics.com.\
 Send your complete contact information including email and telephone and delivery address.\
-Offer ony available to:\
+Offer only available to:\
 Attendees of this event Feb 21-22, 2024.\
 Resident/mailing in USA, Canada and territories. \
 Awards further abroad will be worked out directly. \
