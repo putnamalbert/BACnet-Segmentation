@@ -11,15 +11,16 @@ All trademarks are property of the holders. Endorsement by ASHRAE or any other s
 Endorsement by Siemens or Cimetrics is not implied.
 
 
-
+* Preparation
 * BACnet Network Segmentation   :      Physically separate Ethernet.  Connecting BACnet/IP, BACnet/SC, MSTP
 * BACnet Application Level Firewall   :   Rules by packet type. Monitoring. Read only.
-* BACnet System Monitoring   :   Discovery. Topology. History. Events. 
-* BACnet Certificate Management   :    SC. Onboarding. Signing. Bootstrapping. CA. Hubs. Devices.      SC certs vs public webserver certs. 
-* BACnet Packet Capture  : Wireshark agency. SC decryption. Analysis tools and tips.
-* VPN Access to private network : OpenVPN service and clients.
-* IT Community Practices   :    DHCP, DNS, NTP, Syslog, VPN, VLAN, Security, IPv6
+* Unit Management    : Status, statistics, management, backup, self-security, and maintenance
 
+* BACnet Packet Capture  : Wireshark agency. SC decryption. Analysis tools and tips.
+* VPN Access to Private network : OpenVPN service and clients.
+* IT Community Practices   :    DHCP, DNS, NTP, Syslog, VPN, VLAN, Security, IPv6, Server Certs
+* BACnet System Monitoring   :   Discovery. Topology. History. Events.
+* BACnet Certificate Management   :    SC. Onboarding. Signing. Bootstrapping. CA. Hubs. Devices.      SC certs vs public webserver certs. 
 <!---
 KC: The device and system capabilities for description: 
 1. BACnet network segmentation : 
