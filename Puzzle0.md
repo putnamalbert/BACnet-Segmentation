@@ -24,8 +24,12 @@ Here is an example submission (wrong but valid format) to the arbiter:
 8 webserver
 
 Send as an email to cpeterson@cimetrics.com.
-Send your complete contact information including email and telephone and delivery address.
-Offer only available to this resident/mailing in USA, Canada and territories. Arrangements for awards further afield will be worked out directly. Offer not available to employees of Cimetrics or any others involved in the formulation of the puzzle.
+Send your complete contact information including email and telephone and delivery address.\
+Offer ony available to:\
+Attendees of this event Feb 21-22, 2024.\
+Resident/mailing in USA, Canada and territories. \
+Awards further abroad will be worked out directly. \
+NOT employees of Cimetrics or any others involved in the formulation of the puzzle.
 
 
   
