@@ -1,6 +1,6 @@
 # Puzzle, Treasure Hunt, Capture the Flag
-Based on the modules. And extracting or basing on each.\ 
-Keep track of what is going on in each module so you can answer the questions that will be revealed.\ 
+Based on the modules. And extracting or basing on each.\
+Keep track of what is going on in each module so you can answer the questions that will be revealed.\
 Then put the answers together to send a text message to our arbitrator to capture the flag.
 * Preparation - Which browser do we support for configuration access?
   Which type/edition of OpenVPN Client do we use?
