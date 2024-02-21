@@ -17,15 +17,10 @@ Here is an example submission (wrong but valid format) to the arbiter:
 1 Routers\
 2 TCPIP\
 3 B3075, SbC3000, SbC4100 - TEC, PCX \
-
-4 exe
-
-5 zip
-
-6 tset
-
-7 SbC2000, IRC
-
+4 exe \
+5 zip\
+6 tset\
+7 SbC2000, IRC\
 8 webserver
 
 Send as an email to cpeterson@cimetrics.com.
