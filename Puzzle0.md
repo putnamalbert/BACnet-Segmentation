@@ -13,13 +13,10 @@ Based on the modules. And extracting or basing on each. Keep track of what is go
 
 Here is an example submission (wrong but valid format) to the arbiter:
 
-0 Edge Enterprise
-
-1 Routers
-
-2 TCPIP
-
-3 B3075, SbC3000, SbC4100 - TEC, PCX
+0 Edge Enterprise \
+1 Routers\
+2 TCPIP\
+3 B3075, SbC3000, SbC4100 - TEC, PCX \
 
 4 exe
 
