@@ -7,6 +7,10 @@ Each module will be about ten minutes in duration. They will be cycled through d
 
 Note this is a public website. Please do not place proprietary information.
 
+putnam@cimetrics.com\
+ebotsch@cimetrics.com\
+cpeterson@cimetrics.com
+
 All trademarks are property of the holders. Endorsement by ASHRAE or any other standards organization is not implied.
 Endorsement by Siemens or Cimetrics is not implied.
 
