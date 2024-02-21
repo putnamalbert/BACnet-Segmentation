@@ -1,5 +1,5 @@
 # Puzzle, Treasure Hunt, Capture the Flag
-Based on the modules. And extracting or basing on each. Keep track of what is goung on in each module so you can answer the questions that will be revealed. Then put the answers together to send a text message to our arbitrator to capture the flag.
+Based on the modules. And extracting or basing on each. Keep track of what is going on in each module so you can answer the questions that will be revealed. Then put the answers together to send a text message to our arbitrator to capture the flag.
 * Preparation - Which browser do we support for configuration access?
   Which type/edition of OpenVPN Client do we use?
 * BACnet Network Segmentation - What do we now call BACnet "Routers"?
@@ -8,8 +8,25 @@ Based on the modules. And extracting or basing on each. Keep track of what is go
 * BACnet Packet Capture - What is the extension for packet capture files?
 * VPN Access to private network - What is the extension for OpenVPN configuration files?
 * IT Community of Practice - What is the type of server/service for time recommended for IT best practices?
-* BACnet System Monitoring
-* BACnet Certificate Management
+* BACnet System Monitoring - What is the model number of the Cimetrics core management device? What is the out of (BACnet) band way of propagating messages and alerts in an IT/cloud friendly way? 
+* BACnet Certificate Management - What is perhaps the most key role in a BACnet SC Certificate issuing workflow?
+
+Here is an example submission to the arbiter:
+0 Edge Enterprise
+1 Routers
+2 TCPIP
+3 B3075, SbC3000, SbC4100 - TEC, PCX
+4 exe
+5 zip
+6 tset
+7 SbC2000, IRC
+8 webserver
+
+Send as an email to cpeterson@cimetrics.com.
+Send your complete contact information including email and telephone and delivery address.
+Offer only available to this resident/mailing in USA, Canada and territories. Arrangements for awards further afield will be worked out directly. Offer not available to employees of Cimetrics or any others involved in the formulation of the puzzle.
+
+
   
 <!--- Hidden in comments
 * Preparation - Which browser do we support for configuration access? ALL
