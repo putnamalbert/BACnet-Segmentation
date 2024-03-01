@@ -30,7 +30,7 @@ IBB: https://www.interoperablebuildingbox.com/  \
 BACnet: https://www.ashrae.org/technical-resources/bookstore/bacnet  \
 https://www.ashrae.org/technical-resources/standards-and-guidelines
 
-Virtual Machines "out there": \ 
+Virtual Machines "out there": \
 https://www.linode.com/ \
 https://www.hetzner.com/ \
 https://www.vultr.com/  \
