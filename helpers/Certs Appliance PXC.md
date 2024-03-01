@@ -1,4 +1,9 @@
 # Certificates
+-------------------------------------------------------------
+The full workflows can be gotten by emailing:
+
+putnam@cimetrics.com
+slyons@cimetrics.com
 
 --------------------------------------------------------------
 Create key and CSR in the Appliance and then create the certificates for the appliance. Here is modified bullets list that covers following scenarios:
