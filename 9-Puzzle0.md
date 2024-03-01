@@ -2,16 +2,19 @@
 Based on the modules. And extracting or basing on each.\
 Keep track of what is going on in each module so you can answer the questions that will be revealed.\
 Then put the answers together to send a text message to our arbitrator to capture the flag.
-* Preparation - Which browser do we support for configuration access?
-  Which type/edition of OpenVPN Client do we use?
+* Preparation - What application(s) do we use for configuration access?\
+  We use the Community Edition of what VPN Client?
 * BACnet Network Segmentation - What do we now call BACnet "Routers"?
 * BACnet Application Level Firewall - What protocol is implicitly allowed to the exclusion of all others in our "rules"?
 * Unit Settings and Management - What three core model numbers of Cimetrics devices are we showing in Cimetrics demos? What two core models of host company devices are we showing in Cimetrics demos?
-* BACnet Packet Capture - What is the extension for packet capture files?
+* BACnet Packet Capture - What application is generally used to process pcap packet capture files?
 * VPN Access to private network - What is the extension for OpenVPN configuration files?
-* IT Community of Practice - What is the type of server/service for time recommended for IT best practices?
-* BACnet System Monitoring - What is the model number of the Cimetrics core management device? What is the out of (BACnet) band way of propagating messages and alerts in an IT/cloud friendly way? 
-* BACnet Certificate Management - What is perhaps the most key role in a BACnet SC Certificate issuing workflow?
+* IT Community of Practice - What is the type of server/service, recommended for IT best practices, for hostnames?
+* BACnet System Monitoring - What is the model number of the Cimetrics core management device?\
+  What is the out of (BACnet) band way of propagating messages and alerts in an IT/cloud friendly way? 
+* BACnet Certificate Management - What is central to BACnet SC operation?\
+  How are requests for certificates generally packaged?\
+  What is the new BTL trial for certificate management called?
 
 Here is an example submission (wrong but valid format) to the arbiter:
 
