@@ -49,3 +49,11 @@ https://www.ashrae.org/technical-resources/standards-and-guidelines
 
 Virtual Machines "out there": 
 https://www.linode.com/    https://www.hetzner.com/     https://www.vultr.com/   https://www.digitalocean.com/
+
+New BI Cybersecurity:
+https://bacnetinternational.org/
+https://bacnetinternational.org/cybersecurity/
+
+BACCARI
+https://bacnetinternational.org/press-releases/announcing-the-alpha-release-of-baccari/
+
