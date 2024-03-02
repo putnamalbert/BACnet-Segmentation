@@ -1,5 +1,16 @@
-# Certificates
+# Certificates for BACnet SC
+## Decide
+* Clarity: Operational Cerificates for BACnet SC.... not website or service certificates.
+  
+* Who is CA?:  Enterprise, MSI Vendor, Appliance
+* How is each device to submit for certs?: CSR, Secrets to CSR proxy, Doppleganger creation (very bad, but sometimes needed)
+* How are certs returned to device?: Packaging. Maybe in a zip of different packages?
 
+## And
+Follow the actions and record such actions (to be repeated/updated later).
+
+
+## Mechanics
 Steps that one would take to
 
 Create an Issuer Certificate for the network.
