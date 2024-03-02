@@ -1,5 +1,5 @@
 # OpenVPN
-https://www.cimetrics.com/products/b3075-cimetrics-b-ip-to-b-ip-router
+https://www.cimetrics.com/products/b3075-cimetrics-b-ip-to-b-ip-router  \
 Look for the Documentation. 
 Then the Manual. 
 See page 18.
