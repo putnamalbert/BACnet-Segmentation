@@ -6,8 +6,9 @@
 * How is each device to submit for certs?: CSR, Secrets to CSR proxy, Doppleganger creation (very bad, but sometimes needed)
 * How are certs returned to device?: Packaging. Maybe in a zip of different packages?
 
-## And
+## Act
 Follow the actions and record such actions (to be repeated/updated later).
+Or... better yet... use the wizards.
 
 
 ## Mechanics
