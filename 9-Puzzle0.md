@@ -1,4 +1,5 @@
 # Capture the Flag. Points based.
+<!--- Hidden in comments -->
 Based on the modules. And extracting or basing on each.\
 Keep track of what is going on in each module so you can answer the questions that will be revealed.\
 Then put the answers together to send a text message to our arbitrator to capture the flag.
