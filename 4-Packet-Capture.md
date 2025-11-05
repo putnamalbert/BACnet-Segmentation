@@ -41,4 +41,4 @@ Parentheses may be used in order to control the order that the logical operators
 
 But how do you identify the appropriate packet components to create the desired display filter?  One way to do this is to locate one packet that has some of the desired characteristic(s), and then in the window pane showing the decoded packet, right click on a field that contains information that should be part of the display filter.  Next, select either "Apply as filter" (to apply the filter to the packets immediately) or "Prepare as filter".  See the screenshot below.
 
-![Wireshark: apply as filter](graphics/Wireshark-apply-as-filter (1).png)
+[Wireshark: apply as filter](graphics/Wireshark-apply-as-filter.png)
