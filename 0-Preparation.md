@@ -1,14 +1,26 @@
 # Preparation 
-To participate in our modules: Best to preload if you intend to use. Laptop with Ethernet with following software:
+To participate in our modules:  Laptop with Ethernet. With account/rights on the laptop to install software, configure network interfaces,
+manipulate firewalls, adjust certificates and keys.
+"Optional" was/is sometimes used to chatracterize tools and setups. A better word is perhaps hierarchical. The Advanced Elements must be built upon Foundational elements.
+Best to preload... The following:
 
-## Basic
+## Before
+Setting up for exercises involves using real OEM tools (like configurators like ABT) and devices (like Siemens PXC).
+Call this "setup" as a whole the "Components" of the OEM system. \
+To do Anything: The Components must be present and setup and have platform/power and network/configuration connectivity. \
+To do BACnet: The Components must be preset to do BACnet. Updates, firmware, etc. \
+To do Secure BACnet, aka BACnet SC : The Components must be preset to do BACnet SC. Updates, firmware, etc. \
+That is to say ABT must be at a version level and with the right libraries in coordination with devices to be attached like PXC and DXR.
+Said devices must also have corresponding levels.
+
+## Foundational
 Web browsers (preferably more than one browser). Chrome. Edge. Firefox. Safari. \
 Wireshark. https://www.wireshark.org/ \
 Free Cimetrics BACnet Explorer: https://www.cimetrics.com/products/bacnet-explorer or equivalent \
 OpenVPN Community Edition Client. https://openvpn.net/community-downloads/ \
 Text editor like Notepad.
 
-## Optional
+## Intermediate
 Markdown  .md files    
 https://www.markdownguide.org/basic-syntax/ \
 https://en.wikipedia.org/wiki/Markdown
@@ -19,7 +31,7 @@ VM environment and tools like those for VirtualBox, WSL2 and HyperV. \
 https://www.virtualbox.org/ \
 https://learn.microsoft.com/en-us/windows/wsl/install 
 
-## Advanced
+## Advanced but Key
 SSH client like Putty or equivalent.  https://www.chiark.greenend.org.uk/~sgtatham/putty/ \
 Network interface configuration tools like Netsetman. https://www.netsetman.com/en/freeware  \
 USB second Ethernet adapter for laptop.  https://www.tp-link.com/us/home-networking/usb-converter/ue330/  \
