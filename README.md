@@ -1,9 +1,9 @@
 # BACnet-Segmentation
 This GitHub site provides an educational guide related to BACnet Segmentation and Cybersecurity for the March  IT/OT Summit.
-<!--- Hidden in comments -->
-March 2026
-March 2025
-February 2024
+<!--- Hidden in comments 
+March 2026, March 2025, February 2024
+-->
+
 Modules related to aspects of BACnet Segmentation. Points to cover. Order of importance.
 
 Each module will be about ten minutes in duration. They will be cycled through during each session with a half hour Q&A session.
